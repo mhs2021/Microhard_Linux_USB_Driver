@@ -39,4 +39,4 @@ $ sudo make install
 
 # Credit
 
-Originl authur HaiBac Ngo
+Original author HaiBac Ngo
