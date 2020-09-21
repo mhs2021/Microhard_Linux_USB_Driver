@@ -75,4 +75,4 @@ $ sudo ModemManager start
 
 # Credit
 
-Modified based on original author HaiBac Ngo
+Modified based on original author
